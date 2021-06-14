@@ -1,5 +1,11 @@
 ### Hi there 👋, my name is Vinicius Benicio
 
+#### I am a C# Back-End developer in love with programação.
+
+<p align="center">
+  <img src="https://i.imgur.com/jNqIoL0.png" width="350" title="hover text">
+</p>
+
 <!--
 **viniciusbenicio/viniciusbenicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
