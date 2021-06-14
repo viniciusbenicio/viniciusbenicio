@@ -1,3 +1,4 @@
+
 <div align="center">
   
 ### Hi there 👋, my name is Vinicius Benicio
@@ -6,22 +7,14 @@
 
 Hi, my names is Vinicius and Graduated in Computer Science and also postgraduate in Data Science. at the moment transition career IT infrastructure for Developer C# Back-End in TalkCommunications do Brasil S.A.
 
-Skills: C# | ASP.NET Core | SQL
-
 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viniciusbenicio)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbenicio&show_icons=true)  
 
-  
-
-[<img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='github' height='40'>](https://github.com/viniciusbenicio)  
-[<img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white' alt='github' height='40'>](https://github.com/viniciusbenicio)  
-[<img src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' alt='github' height='40'>](https://github.com/viniciusbenicio)  
-
-  
-
-  
+## Skills:
+<img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='github' height='40'> 
+<img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white' alt='github' height='40'> 
+<img src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' alt='github' height='40'>
 </div>
