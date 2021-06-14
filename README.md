@@ -16,7 +16,12 @@ Skills: C# | ASP.NET Core | SQL
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbenicio&show_icons=true)  
 
   
+
 [<img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='github' height='40'>](https://github.com/viniciusbenicio)  
+[<img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white' alt='github' height='40'>](https://github.com/viniciusbenicio)  
+[<img src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' alt='github' height='40'>](https://github.com/viniciusbenicio)  
+
+  
 
   
 </div>
