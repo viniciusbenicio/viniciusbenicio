@@ -1,22 +1,14 @@
 ### Hi there 👋, my name is Vinicius Benicio
+#### I am a C# Back-End developer in love with programming.
+![I am a C# Back-End developer in love with programming.](https://camo.githubusercontent.com/461caf5ef6ffe394edb98710c68f4897090b780b6da576c358ca81dfc15a09c4/68747470733a2f2f692e696d6775722e636f6d2f6a4e71496f4c302e706e67)
 
-#### I am a C# Back-End developer in love with programação.
+Hi, my names is Vinicius and Graduated in Computer Science and also postgraduate in Data Science. at the moment transition career IT infrastructure for Developer C# Back-End in TalkCommunications do Brasil S.A.
 
-<p align="center">
-  <img src="https://i.imgur.com/jNqIoL0.png" width="350" title="hover text">
-</p>
 
-<!--
-**viniciusbenicio/viniciusbenicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C# | ASP.NET Core | SQL 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
