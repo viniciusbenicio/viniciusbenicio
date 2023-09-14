@@ -5,7 +5,8 @@
 </p>
 
 <hr>
-* 💻 Desenvolvedor Fullstack 
+*💻 Desenvolvedor Fullstack 
+
 <hr>
 
 [![Linkedin: andrebaltieri](https://img.shields.io/badge/-andrebaltieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrebaltieri/)](https://www.linkedin.com/in/viniciusbenicio/)
