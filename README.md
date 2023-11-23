@@ -3,7 +3,7 @@
   Desenvolvedor de Software trabalhando com Desenvolvimento Full Stack desde 2021, utilizando principalmente C# e Angular.<br>
 </p>
 <hr>
-💻 Desenvolvedor Fullstack 
+💻 Desenvolvedor .NET 
 <hr>
 
 
