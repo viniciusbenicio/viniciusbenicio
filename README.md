@@ -1,6 +1,6 @@
 <h1>Sobre mim...</h1>
 <p>
-  Desenvolvedor de Software trabalhando com Desenvolvimento Full Stack desde 2021, utilizando principalmente C# e Angular.<br>
+  Desenvolvedor de Software trabalhando com Desenvolvimento .NET desde 2021, utilizando principalmente C# <br>
 </p>
 <hr>
 💻 Desenvolvedor .NET 
