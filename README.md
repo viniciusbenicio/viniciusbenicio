@@ -5,7 +5,7 @@
 ## Resumo Técnico
 
 - Linguagem: **C#, .NET**
-- Banco de Dados:  **Microsoft SQL Server**
+-  Banco de Dados:  **Microsoft SQL Server**
 - Outros: **Docker, Kubernetes, Azure, CI/CD.**
 
 
@@ -21,8 +21,8 @@ Sou um profissional dedicado e apaixonado por desenvolvimento de software, espec
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades, colaborações ou apenas para compartilhar ideias e experiências.
 
-- **E-mail:** [vinicius.benicio97@gmail.com](mailto:vinicius.benicio97@gmail.com)
-- **LinkedIn:** [Vinicius Benicio](https://www.linkedin.com/in/viniciusbenicio/)
-- **GitHub:** [viniciusbenicio](https://github.com/viniciusbenicio)
+- 📧**E-mail:** [vinicius.benicio97@gmail.com](mailto:vinicius.benicio97@gmail.com)
+- 🔗**LinkedIn:** [Vinicius Benicio](https://www.linkedin.com/in/viniciusbenicio/)
+- 🐙**GitHub:** [viniciusbenicio](https://github.com/viniciusbenicio)
 
 Obrigado por visitar meu perfil! 🚀
