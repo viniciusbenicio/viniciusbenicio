@@ -8,12 +8,7 @@
 -  Banco de Dados:  **Microsoft SQL Server**
 - Outros: **Docker, Kubernetes, Azure, CI/CD.**
 
-
-## Sobre Mim
-
-Sou um profissional dedicado e apaixonado por desenvolvimento de software, especializado em Backend com experiência em projetos desafiadores e inovadores. Minha abordagem se baseia na busca contínua por aprimoramento técnico e na entrega de soluções de alta qualidade.
-
-## Projetos Destacados
+## Projeto Destacados
 
 - **Trux - TMS:** Contribui ativamente para o desenvolvimento e evolução da plataforma Trux, utilizando C# no ambiente .NET e gerenciando dados no Microsoft SQL Server. Participei de iniciativas para melhorar a eficiência operacional, garantindo uma experiência fluida para os usuários.
 
