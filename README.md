@@ -7,7 +7,6 @@
 
 - Linguagem: **C#, .NET**
 - Banco de Dados:  **Microsoft SQL Server**
-- Outros: **Docker, RabbitMQ, Azure, CI/CD.**
 - Outros: **Azure Devops CI/CD, Docker, RabbitMQ / Mensageria, Microsserviço**
 
 ## Projeto Destacados
