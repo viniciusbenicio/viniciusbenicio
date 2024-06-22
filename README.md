@@ -1,14 +1,14 @@
 # Olá, meu nome é Vinicius Benicio!
 
-<strong>Desenvolvedor Backend</strong> na UX Solutions desde fevereiro de 2023. Atualmente, integro o time do <strong>Trux - TMS</strong>, Uma tecnologia completa com módulos de gestão, financeiro, reversa, roteirizador, averbação, que permitem otimizar rotas, reduzir custos e aumentar a precisão das entregas, como uma visão detalhada de cada um dos processos que envolvem a gestão de transportes. Nosso TMS transportador garante uma cadeia de suprimentos ágil, confiável e totalmente alinhada às demandas do mercado.
-
+**Desenvolvedor Backend** na UX Solutions desde fevereiro de 2023. Atualmente, integro o time do **Trux - TMS**, Uma tecnologia completa com módulos de gestão, financeiro, reversa, roteirizador, averbação, que permitem otimizar rotas, reduzir custos e aumentar a precisão das entregas, como uma visão detalhada de cada um dos processos que envolvem a gestão de transportes. Nosso TMS transportador garante uma cadeia de suprimentos ágil, confiável e totalmente alinhada às demandas do mercado.
 
 
 ## Resumo Técnico
 
 - Linguagem: **C#, .NET**
--  Banco de Dados:  **Microsoft SQL Server**
-- Outros: **Docker, Kubernetes, Azure, CI/CD.**
+- Banco de Dados:  **Microsoft SQL Server**
+- Outros: **Docker, RabbitMQ, Azure, CI/CD.**
+- Outros: **Azure Devops CI/CD, Docker, RabbitMQ / Mensageria, Microsserviço**
 
 ## Projeto Destacados
 
